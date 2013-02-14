@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  payer_id: 1
+  beneficiary_id: 1
+  date: 2013-02-13
+  delay: 2013-02-13
+  summ: 1.5
+  currency: MyString
+  comment: MyText
+  item: MyString
+  state: false
+
+two:
+  payer_id: 1
+  beneficiary_id: 1
+  date: 2013-02-13
+  delay: 2013-02-13
+  summ: 1.5
+  currency: MyString
+  comment: MyText
+  item: MyString
+  state: false
